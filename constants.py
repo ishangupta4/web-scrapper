@@ -1,0 +1,9 @@
+USER_AGENT = "Mozilla/5.0"
+STATIC_TOKEN = "secure_static_token"
+DEFAulT_FALLBACK_URL = "https://dentalstall.com/shop/page/{}/"
+MAX_LIMIT = 119
+MIN_LIMIT = 1
+SCRAPED_DATA_FILE = "scraped_data.json"
+HTML_PRODUCT_TITLE_CLASS = ".woo-loop-product__title"
+HTML_PRICE_AMOUNT_CLASS = ".woocommerce-Price-amount"
+HTML_PRODUCT_IMAGE = "img.attachment-woocommerce_thumbnail"
